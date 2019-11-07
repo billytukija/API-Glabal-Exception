@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\billy.richard\\Documents\\GitHub\\ExcecaoGlobal\\ExcecaoGlobal\\ExcecaoGlobal.csproj": {}
+    "C:\\Users\\billy.richard\\Documents\\GitHub\\API-Glabal-Exception\\ExcecaoGlobal\\ExcecaoGlobal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\billy.richard\\Documents\\GitHub\\ExcecaoGlobal\\ExcecaoGlobal\\ExcecaoGlobal.csproj": {
+    "C:\\Users\\billy.richard\\Documents\\GitHub\\API-Glabal-Exception\\ExcecaoGlobal\\ExcecaoGlobal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\billy.richard\\Documents\\GitHub\\ExcecaoGlobal\\ExcecaoGlobal\\ExcecaoGlobal.csproj",
+        "projectUniqueName": "C:\\Users\\billy.richard\\Documents\\GitHub\\API-Glabal-Exception\\ExcecaoGlobal\\ExcecaoGlobal.csproj",
         "projectName": "ExcecaoGlobal",
-        "projectPath": "C:\\Users\\billy.richard\\Documents\\GitHub\\ExcecaoGlobal\\ExcecaoGlobal\\ExcecaoGlobal.csproj",
+        "projectPath": "C:\\Users\\billy.richard\\Documents\\GitHub\\API-Glabal-Exception\\ExcecaoGlobal\\ExcecaoGlobal.csproj",
         "packagesPath": "C:\\Users\\billy.richard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\billy.richard\\Documents\\GitHub\\ExcecaoGlobal\\ExcecaoGlobal\\obj\\",
+        "outputPath": "C:\\Users\\billy.richard\\Documents\\GitHub\\API-Glabal-Exception\\ExcecaoGlobal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
